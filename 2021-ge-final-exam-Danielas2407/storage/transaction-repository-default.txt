@@ -1,0 +1,5 @@
+uang saku|1000|income
+beli pulsa|100|expense
+ganti jok sepeda|100|expense
+hibah dari opung|200|income
+sputivi|49|expense

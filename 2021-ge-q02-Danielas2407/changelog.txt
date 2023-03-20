@@ -1,0 +1,4 @@
+Mengisi academic.c dengan meng-copy dari tugas sebelumnya (t08)
+Mengisi q02_01
+Mengisi q02_02
+Mengisi q02_03 
