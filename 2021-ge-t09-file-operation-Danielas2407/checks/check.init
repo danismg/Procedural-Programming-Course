@@ -1,0 +1,5 @@
+0fa67dccefecb3767f0928249c3b3296  ./academic.h
+2acce0c68a703c7b8767012c8506d698  ./repository.h
+0792bab49323f517f3154cd8624a1644  ./storage/course-repository.txt
+fc9fdf75ac2687f0607bc160c7e67c71  ./storage/student-repository.txt
+1e6421ca1b580f2588cab56f6113e1b5  ./storage/enrollment-repository.txt

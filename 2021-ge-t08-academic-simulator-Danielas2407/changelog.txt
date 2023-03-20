@@ -1,0 +1,2 @@
+Mengisi academic.c dengan meng-copy dari academic.c pada t07
+Mengisi t08_01.c

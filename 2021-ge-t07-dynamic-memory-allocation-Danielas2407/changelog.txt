@@ -1,0 +1,5 @@
+mengisi academic.c
+mengisi t07_01.c
+mengisi t07_02.c
+mengisi t07_03.c
+mengisi t07_04.c

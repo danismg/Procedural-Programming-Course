@@ -1,0 +1,11 @@
+mengisi create_course
+mengisi grade_to_text
+mnngisi print_course
+mengisi create_student
+mengisi print_student
+mengisi create enrollments
+mengisi calculate_performent
+mengisi print_enrollment
+mengisi print_enrollments
+mengisi set_enrollment_grade
+mengisi calculate_gpa
